@@ -1,0 +1,18 @@
+/* Font family for all elements within the DOM */
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+	letter-spacing: 1px;
+}
+
+/* Styling all the inputs */
+input {
+	border: 2px solid pink;
+	border-radius: 0.3rem;
+}
+
+h5 {
+	font-size: 1rem;
+}
